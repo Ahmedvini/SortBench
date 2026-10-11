@@ -1,0 +1,16 @@
+configuration,successful_runs,median_ms,mean_ms,min_ms,max_ms
+sort_fast_mt_mode1,20,37.246,193.749,29.017,701.199
+sort_fast_submit_mt_mode1,20,37.462,132.262,28.251,1060.077
+sort_fast_mt_mode0,20,37.627,128.084,28.643,601.381
+sort_fast_submit_mt_mode0,20,39.479,139.556,28.872,689.663
+sort_fast_submit_mode1,20,47.398,120.854,38.431,582.434
+sort_fast_baseline_mode0,20,48.413,113.273,41.342,599.762
+sort_fast_mode0,20,50.481,149.413,40.79,827.995
+sort_fast_submit_mode0,20,53.03,237.463,41.621,944.447
+sort_fast_baseline_mode1,20,57.14,217.699,42.194,643.873
+sort_fast_mt_mode2,20,91.672,208.624,77.025,729.618
+sort_fast_submit_mt_mode2,20,91.874,161.761,79.071,459.058
+sort_fast_submit_mode2,20,100.972,169.318,89.301,733.84
+sort_fast_baseline_mode2,20,102.247,189.25,89.963,651.528
+sort_fast_mode2,20,108.007,214.048,87.708,1246.127
+sort_fast_mode1,20,150.629,263.04,39.025,882.758
